@@ -25,4 +25,4 @@ https://marketplace.visualstudio.com/items?itemName=MykolaTarasyuk.JSONViewer
  
  https://marketplace.visualstudio.com/items?itemName=SharpDevelopTeam.CodeConverter
  
- https://marketplace.visualstudio.com/items?itemName=TFSPowerToolsTeam.VisualStudioToolsforGit
+ https://marketplace.visualstudio.com/items?itemName=TFSPowerToolsTeam.VisualStudioToolsforGit 
