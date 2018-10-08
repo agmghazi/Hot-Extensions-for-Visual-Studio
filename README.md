@@ -1,4 +1,4 @@
-# Hot-Extensions-for-Visual-Studio
+# Hot Extensions for Visual Studio
 
 
  https://marketplace.visualstudio.com/items?itemName=vs-publisher-306627.RedgateSQLSearch
